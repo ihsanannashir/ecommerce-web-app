@@ -22,7 +22,7 @@ export default function Hero() {
       </div>
       <div class="w-full inset-0 md:relative md:w-1/2">
         <div class="relative hero-image">
-          <div class="overlay inset-0 bg-black bg-opacity-35 z-10"></div>
+          <div class="overlay inset-0 bg-neutral-500/50 z-10"></div>
           <div class="overlay right-0 bottom-0 md:inset-0">
             <button
               class="video hero-cta focus:outline-none z-30 modal-trigger"
