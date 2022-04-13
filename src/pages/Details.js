@@ -13,7 +13,7 @@ import Footer from '../parts/Footer'
 export default function Details() {
   return (
     <>
-    <Header/>
+    <Header theme="black"/>
 
     <Breadcrumb list={[
         {url: "/", name: "Home"},
