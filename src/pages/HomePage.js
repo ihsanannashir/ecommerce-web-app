@@ -10,7 +10,7 @@ import Footer from '../parts/Footer'
 export default function HomePage() {
   return (
     <>
-    <Header theme="white" position={"absolute"}/>
+    <Header theme="white" position="absolute"/>
     <Hero/>
     <BrowseRoom/>
     <JustArrived/>
