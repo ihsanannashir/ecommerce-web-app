@@ -1,3 +1,3 @@
 # E-Commerce Web App
 
-An ecommerce web app with react and tailwind, created for practice purpose.
+An furniture ecommerce web app with react and tailwind, created for practice purpose.
